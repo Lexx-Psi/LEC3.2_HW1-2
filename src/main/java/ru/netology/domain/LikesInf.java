@@ -31,7 +31,7 @@ package ru.netology.domain;
 
         public void setCanLike(int canLike) {
             this.canLike = canLike;
-        }
+        } 
 
         public int getCanPublish() {
             return canPublish;

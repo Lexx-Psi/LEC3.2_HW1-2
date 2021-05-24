@@ -28,5 +28,5 @@ public class Geolocation {
     public void setPlace(Place place) {
         this.place = place;
     }
-}
+} 
 }

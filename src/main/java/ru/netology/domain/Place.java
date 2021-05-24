@@ -80,7 +80,7 @@ public class Place {
         }
 
         public int getType() {
-            return type;
+            return type; 
         }
 
         public void setType(int type) {

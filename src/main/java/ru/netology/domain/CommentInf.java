@@ -7,7 +7,7 @@ public class CommentInformation {
     private int canPost;
     private int groupsCanPost;
     private boolean canClose;
-
+ 
     public int getCount() {
         return count;
     }

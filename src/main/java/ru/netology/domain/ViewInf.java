@@ -10,4 +10,4 @@ public class ViewInformation {
     public void setCount(int count) {
         this.count = count;
     }
-}
+} 

@@ -1,5 +1,5 @@
 package ru.netology.domain;
-
+ 
 public class Place {
     public class Place {
         private int id;
